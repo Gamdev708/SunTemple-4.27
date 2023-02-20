@@ -72,23 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Config/DefaultDeviceProfiles.ini
-Config/DefaultEditor.ini
-Config/DefaultEngine.ini
-Config/DefaultGame.ini
-Config/DefaultInput.ini
-Config/DefaultLightmass.ini
-Content/Assets/BluePrints/BP_Godray.uasset
-Content/Assets/Materials/M_Arch.uasset
-Content/Assets/Materials/M_Arch_Inst.uasset
-Content/Assets/Materials/M_Arch_Inst_2.uasset
-Content/Assets/Materials/M_Arch_Inst_Red.uasset
-Content/Assets/Materials/M_Arch_Inst_Red_2.uasset
-Content/Assets/Materials/M_BackgroundMatte.uasset
-Content/Assets/Materials/M_BackgroundMatte_Inst.uasset
-Content/Assets/Materials/M_BottomTrim.uasset
-Content/Assets/Materials/M_BottomTrim_Inst.uasset
-Content/Assets/Materials/M_BottomTrim_Inst_Black.uasset
-Content/Assets/Materials/M_BottomTrim_Inst_UTile4.uasset
-Content/Assets/Materials/M_Dome.uasset
-Content/Assets/Materials/M_Dome_1.uasset
+
